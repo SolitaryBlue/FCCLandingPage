@@ -51,7 +51,9 @@ p {
   height: 75vh;
   text-align: center;
   color: ghostwhite;
-  text-shadow: 0rem; 
+  text-shadow: 0rem;
+  display: flex;
+  align-items: center;
 }
 
 .pageInfo {
